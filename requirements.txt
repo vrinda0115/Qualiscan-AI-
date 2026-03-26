@@ -1,0 +1,6 @@
+gradio
+requests
+opencv-python
+numpy
+pillow
+python-dotenv
